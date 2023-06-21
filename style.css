@@ -1,3 +1,17 @@
+.helper-red{
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+.helper-blue{
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
+
+.helper-green{
+    box-sizing: border-box;
+    border: 1px solid yellow;
+}
 #header {
     position: relative;
     width: 100%;
